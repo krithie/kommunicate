@@ -1,0 +1,2 @@
+The best project that I have worked on is "Converting Morse Code into english language using eye blinks". It is the best project because it introduced me to computer vision concepts that I got to self-learn and apply. 
+The project uses the OpenCV and Dlib libraries to detect eyes, blinks and the duration of a blink to calculate 'dits' and 'dahs' and further convert to the english language.
